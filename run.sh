@@ -1,1 +1,1 @@
-docker run -it -p 5000:5000 ozziest/hello-word
+docker run -it -p 5000:5000 ozziest/hello-world
